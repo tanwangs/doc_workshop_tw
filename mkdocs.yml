@@ -147,9 +147,8 @@ nav:
       - Introduction: about/index.md
 
   - Documentation:
-      - Overview: documentation/index.md
-      - Getting Started Guide: documentation/getting-started.md
-      - Softwares : documentation/installation.md 
+      - Setting up Python: documentation/python_setup.md
+      - Lightcurve Analysis : documentation/lightcurve.md 
       
   - Projects:
-      - Overview: projects/index.md
+      - No Projects Yet: https://www.youtube.com/watch?v=dQw4w9WgXcQ
