@@ -13,7 +13,7 @@ site_description: A personal documentation site for showcasing work, learning, a
 site_author: Tandin Wangyel                    # ← Change to your name
 
 repo_url: https://github.com/tanwangs/doc_workshop_tw  # ← Change to your GitHub repo URL
-repo_name: yourusername/yourrepo                    # ← Change to username/reponame
+repo_name: tanwangs/doc_workshop_tw                  # ← Change to username/reponame
 
 # ── Theme ────────────────────────────────────────────────────
 theme:
