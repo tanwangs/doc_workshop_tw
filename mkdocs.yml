@@ -8,11 +8,11 @@
 # ============================================================
 
 site_name: My Documentation Site          # ← Change to your name / project
-site_url: https://yourusername.github.io/yourrepo/  # ← Change: https://<username>.github.io/<repo>/
+site_url: https://tanwangs.github.io/doc_workshop_tw/  # ← Change: https://<username>.github.io/<repo>/
 site_description: A personal documentation site for showcasing work, learning, and projects.
-site_author: Your Name                    # ← Change to your name
+site_author: Tandin Wangyel                    # ← Change to your name
 
-repo_url: https://github.com/yourusername/yourrepo  # ← Change to your GitHub repo URL
+repo_url: https://github.com/tanwangs/doc_workshop_tw  # ← Change to your GitHub repo URL
 repo_name: yourusername/yourrepo                    # ← Change to username/reponame
 
 # ── Theme ────────────────────────────────────────────────────
