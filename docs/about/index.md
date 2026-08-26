@@ -62,7 +62,7 @@ I'm a student studying in the 10th grade at The Royal Academy. I am interested i
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
+| LinkedIn | [N/A](https://linkedin.com/in/yourusername) |
 | Email | [tandin.wangyel2023@academy.bt](mailto:tandin.wangyel2023@academy.bt) |
 
 ======================================================== -->
